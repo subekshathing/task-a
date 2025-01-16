@@ -1,0 +1,7 @@
+#root {
+  width: 100%; /* Full width of the browser */
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+  background: linear-gradient(to right, #f5cd71 5%, #992875 70%, #702791); 
+}
