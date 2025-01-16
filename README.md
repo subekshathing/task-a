@@ -22,7 +22,7 @@ Make sure you have the following installed:
     npm start
     ```
 
-    The project will be available at [http://localhost:3000](http://localhost:3000).
+    The project will be available at https://task-a-alpha.vercel.app/
 
 ## Technology Choices and Rationale
 
